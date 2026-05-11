@@ -1,0 +1,17 @@
+<Application x:Class="Tshow.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Tshow">
+    <Application.Resources>
+        <SolidColorBrush x:Key="AccentBrush" Color="#0078D4" />
+        <SolidColorBrush x:Key="AccentLightBrush" Color="#60CDFF" />
+        <SolidColorBrush x:Key="BackgroundBrush" Color="#1C1C1C" />
+        <SolidColorBrush x:Key="SurfaceBrush" Color="#2D2D2D" />
+        <SolidColorBrush x:Key="SurfaceLightBrush" Color="#383838" />
+        <SolidColorBrush x:Key="TextPrimaryBrush" Color="#FFFFFF" />
+        <SolidColorBrush x:Key="TextSecondaryBrush" Color="#AAAAAA" />
+        <SolidColorBrush x:Key="SuccessBrush" Color="#6BCB77" />
+        <SolidColorBrush x:Key="WarningBrush" Color="#FFD93D" />
+        <SolidColorBrush x:Key="DangerBrush" Color="#FF6B6B" />
+    </Application.Resources>
+</Application>
