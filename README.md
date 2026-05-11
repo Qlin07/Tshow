@@ -45,7 +45,7 @@
 winget install Microsoft.DotNet.SDK.9
 
 # 2. 克隆项目
-git clone https://github.com/yourname/Tshow.git
+git clone https://github.com/Qlin07/Tshow.git
 cd Tshow
 
 # 3. 运行
